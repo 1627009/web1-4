@@ -15,6 +15,7 @@ h2{
   font-weight: bold;
   padding: 5px 20px;
 }
+h2:first-letter{font-size: 1.75em}
 
 #museum{
   color:#ff0000;
