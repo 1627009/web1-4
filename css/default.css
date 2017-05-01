@@ -1,4 +1,8 @@
 @charset "UTF-8";
+body{
+  background-image: url(../IMG_2986.JPG);
+}
+
 h1 span{
   color:#008080;
 }
