@@ -7,6 +7,13 @@ h1 span{
   color:#008080;
 }
 
+h2{
+  font-size:70%;
+  border:#000000 1px dotted;
+  background-color:#ffff00;
+  font-weight:bold;
+}
+
 #museum{
   color:#ff0000;
 }
